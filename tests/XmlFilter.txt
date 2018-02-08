@@ -1,0 +1,3 @@
+pom.xml
+struts-config.xml
+config.xml
